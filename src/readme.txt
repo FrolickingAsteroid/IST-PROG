@@ -21,9 +21,9 @@
 │20│ Output:  ficheiros de texto .csv e ficheiros binários .dat.                                    │
 │21│                                                                                                │
 │22│ Warning: Embora  não seja possível a especificação de quaisquer parâmetros no que toca         │
-│23│ 	     a leitura de ficheiros de data, considerando que os valores base de -L e -D já        │
+│23│ 	      a leitura de ficheiros de data, considerando que os valores base de -L e -D já        │
 │24│          são estipulados, mesmo que introduzidos os standart "all" e "alfa" no terminal,       │
-│25│ 	     não terão qualquer significado, não serão aplicados (o ficheiro não será apresentado  │
+│25│ 	      não terão qualquer significado, não serão aplicados (o ficheiro não será apresentado  │
 │26│          na ordem alfabética e a leitura será realizada na integra do ficheiro .dat fornecido, │
 │27│          quaisquer outros parâmetros darão erro                                                │
 │28│                                                                                                │
